@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(88, 83, 88);
+    text-align: center;
+}
+.sp{
+    background-color: rgb(187, 55, 55);
+    height:20px;
+    width: 80px;
+    border-radius: 20px;
+
+}
+button{
+    border-radius: 20px;
+}
+.ajt{
+    background-color: rgb(59, 59, 150);
+    height:20px;
+    width: 80px;
+    border-radius: 20px;
+}
+.dn{
+    background-color: rgb(65, 163, 65);
+    height:20px;
+    width: 80px;
+    border-radius: 20px;
+}
+
+input{
+height: 30px;
+width: 200px;
+border-radius: 30px;
+margin-bottom: 30px;
+
+}
+.btn-done{
+    margin: 10px;
+}
+li {
+    list-style: none;
+    
+}
